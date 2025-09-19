@@ -21,6 +21,7 @@
 If you wanted to play --
 ### Clone the Repository
 
-git  -https://github.com/SamiraZx14/SDP-1-CodeCraft.git
+git  -https://github.com/SamZx14/SDP-1-CodeCraft.git
+
 
 
